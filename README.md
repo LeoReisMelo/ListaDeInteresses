@@ -1,2 +1,5 @@
 # ListaDeInteresses
 Projeto, utilizando NodeJS + DynamoDb + GraphQL
+
+Execute YARN ou NPM INSTALL - PARA INSTALAR AS DEPENDÊNCIAS
+Execute YARN DEV ou NPM RUN DEV - PARA EXECUTAR A APLICAÇÃO - OUVINDO NA PORTA 4000
